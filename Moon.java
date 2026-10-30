@@ -1,2 +1,2 @@
 int i = 10; 
-String name = 'nishit'
+String name = 'nishit';
