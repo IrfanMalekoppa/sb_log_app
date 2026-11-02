@@ -19,3 +19,5 @@ int k = 30;
 
 boolean status = false;
 
+int a = 10;
+
